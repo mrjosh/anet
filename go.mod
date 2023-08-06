@@ -1,4 +1,4 @@
-module anet
+module github.com/mrjosh/anet
 
 go 1.20
 
